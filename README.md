@@ -9,7 +9,7 @@
 
 This Power BI project visualizes and monitors the production performance and target achievements of a manufacturing or operational team. The dashboard provides a comprehensive view of weekly, monthly and individual performance metrics to support data-driven decision-making and operational efficiency.
 
-Key Features:
+* Key Features:
 
 Weekly Target Achievement: Compares actual production against targets for each team member, identifying top and low performers.
 
