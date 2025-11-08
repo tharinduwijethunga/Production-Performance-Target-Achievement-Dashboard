@@ -29,6 +29,6 @@ DAX for calculated measures and KPIs
 
 Excel / SQL for data preparation and modeling
 
-Impact:
+* Impact:
 
 This dashboard enables management to track real-time production efficiency, evaluate workforce performance and optimize resource allocation by highlighting productivity patterns and areas for improvement.
